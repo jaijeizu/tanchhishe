@@ -1,0 +1,87 @@
+E:\3\Snakeat\Snakeat\obj\x86\Debug\Snakeat.Form1.resources
+E:\3\Snakeat\Snakeat\obj\x86\Debug\Snakeat.Properties.Resources.resources
+E:\3\Snakeat\Snakeat\obj\x86\Debug\Snakeat.csproj.GenerateResource.Cache
+E:\3\Snakeat\Snakeat\bin\Debug\Snakeat.exe
+E:\3\Snakeat\Snakeat\bin\Debug\Snakeat.pdb
+E:\3\Snakeat\Snakeat\obj\x86\Debug\Snakeat.exe
+E:\3\Snakeat\Snakeat\obj\x86\Debug\Snakeat.pdb
+E:\3\Snakeat\Snakeat\obj\x86\Debug\Snakeat.csprojAssemblyReference.cache
+E:\3\Snakeat\Snakeat\obj\x86\Debug\Snakeat.csproj.CoreCompileInputs.cache
+F:\C#\Snakeat\Snakeat\bin\Debug\Snakeat.exe
+F:\C#\Snakeat\Snakeat\bin\Debug\Snakeat.pdb
+F:\C#\Snakeat\Snakeat\obj\x86\Debug\Snakeat.csprojAssemblyReference.cache
+F:\C#\Snakeat\Snakeat\obj\x86\Debug\Snakeat.Form1.resources
+F:\C#\Snakeat\Snakeat\obj\x86\Debug\Snakeat.Properties.Resources.resources
+F:\C#\Snakeat\Snakeat\obj\x86\Debug\Snakeat.csproj.GenerateResource.cache
+F:\C#\Snakeat\Snakeat\obj\x86\Debug\Snakeat.csproj.CoreCompileInputs.cache
+F:\C#\Snakeat\Snakeat\obj\x86\Debug\Snakeat.exe
+F:\C#\Snakeat\Snakeat\obj\x86\Debug\Snakeat.pdb
+F:\C#\Snakeat\Snakeat\bin\Debug\Snakeat.exe.config
+E:\Snakeat改了点bug版本\Snakeat\bin\Debug\Snakeat.exe.config
+E:\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.exe
+E:\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.pdb
+E:\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.Form1.resources
+E:\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.Properties.Resources.resources
+E:\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.csproj.GenerateResource.Cache
+E:\Snakeat改了点bug版本\Snakeat\bin\Debug\Snakeat.exe
+E:\Snakeat改了点bug版本\Snakeat\bin\Debug\Snakeat.pdb
+C:\Users\jingjing\Desktop\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.exe
+C:\Users\jingjing\Desktop\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.pdb
+C:\Users\jingjing\Desktop\Snakeat改了点bug版本\Snakeat\bin\Debug\Snakeat.exe
+C:\Users\jingjing\Desktop\Snakeat改了点bug版本\Snakeat\bin\Debug\Snakeat.pdb
+C:\Users\jingjing\Desktop\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.Form1.resources
+C:\Users\jingjing\Desktop\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.Properties.Resources.resources
+C:\Users\jingjing\Desktop\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.csproj.GenerateResource.Cache
+C:\Users\jingjing\Desktop\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.csprojResolveAssemblyReference.cache
+D:\桌面\第12组-182054142吝晶\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.exe
+D:\桌面\第12组-182054142吝晶\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.pdb
+D:\桌面\第12组-182054142吝晶\Snakeat改了点bug版本\Snakeat\bin\Debug\Snakeat.exe
+D:\桌面\第12组-182054142吝晶\Snakeat改了点bug版本\Snakeat\bin\Debug\Snakeat.pdb
+D:\桌面\第12组-182054142吝晶\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.csprojResolveAssemblyReference.cache
+D:\桌面\第12组-182054142吝晶\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.Form1.resources
+D:\桌面\第12组-182054142吝晶\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.Properties.Resources.resources
+D:\桌面\第12组-182054142吝晶\Snakeat改了点bug版本\Snakeat\obj\x86\Debug\Snakeat.csproj.GenerateResource.Cache
+C:\Users\26519\Desktop\贪吃蛇\Snakeat\bin\Debug\Snakeat.exe.config
+C:\Users\26519\Desktop\贪吃蛇\Snakeat\bin\Debug\Snakeat.exe
+C:\Users\26519\Desktop\贪吃蛇\Snakeat\bin\Debug\Snakeat.pdb
+C:\Users\26519\Desktop\贪吃蛇\Snakeat\obj\x86\Debug\Snakeat.csproj.AssemblyReference.cache
+C:\Users\26519\Desktop\贪吃蛇\Snakeat\obj\x86\Debug\Snakeat.csproj.SuggestedBindingRedirects.cache
+C:\Users\26519\Desktop\贪吃蛇\Snakeat\obj\x86\Debug\Snakeat.Form1.resources
+C:\Users\26519\Desktop\贪吃蛇\Snakeat\obj\x86\Debug\Snakeat.Properties.Resources.resources
+C:\Users\26519\Desktop\贪吃蛇\Snakeat\obj\x86\Debug\Snakeat.csproj.GenerateResource.cache
+C:\Users\26519\Desktop\贪吃蛇\Snakeat\obj\x86\Debug\Snakeat.csproj.CoreCompileInputs.cache
+C:\Users\26519\Desktop\贪吃蛇\Snakeat\obj\x86\Debug\Snakeat.exe
+C:\Users\26519\Desktop\贪吃蛇\Snakeat\obj\x86\Debug\Snakeat.pdb
+C:\Users\26519\Desktop\贪吃蛇 - 副本\Snakeat\bin\Debug\Snakeat.exe.config
+C:\Users\26519\Desktop\贪吃蛇 - 副本\Snakeat\bin\Debug\Snakeat.exe
+C:\Users\26519\Desktop\贪吃蛇 - 副本\Snakeat\bin\Debug\Snakeat.pdb
+C:\Users\26519\Desktop\贪吃蛇 - 副本\Snakeat\obj\x86\Debug\Snakeat.csproj.AssemblyReference.cache
+C:\Users\26519\Desktop\贪吃蛇 - 副本\Snakeat\obj\x86\Debug\Snakeat.csproj.SuggestedBindingRedirects.cache
+C:\Users\26519\Desktop\贪吃蛇 - 副本\Snakeat\obj\x86\Debug\Snakeat.Form1.resources
+C:\Users\26519\Desktop\贪吃蛇 - 副本\Snakeat\obj\x86\Debug\Snakeat.Properties.Resources.resources
+C:\Users\26519\Desktop\贪吃蛇 - 副本\Snakeat\obj\x86\Debug\Snakeat.csproj.GenerateResource.cache
+C:\Users\26519\Desktop\贪吃蛇 - 副本\Snakeat\obj\x86\Debug\Snakeat.csproj.CoreCompileInputs.cache
+C:\Users\26519\Desktop\贪吃蛇 - 副本\Snakeat\obj\x86\Debug\Snakeat.exe
+C:\Users\26519\Desktop\贪吃蛇 - 副本\Snakeat\obj\x86\Debug\Snakeat.pdb
+C:\Users\26519\Desktop\贪吃蛇 - 副本 - 副本\Snakeat\bin\Debug\Snakeat.exe.config
+C:\Users\26519\Desktop\贪吃蛇 - 副本 - 副本\Snakeat\bin\Debug\Snakeat.exe
+C:\Users\26519\Desktop\贪吃蛇 - 副本 - 副本\Snakeat\bin\Debug\Snakeat.pdb
+C:\Users\26519\Desktop\贪吃蛇 - 副本 - 副本\Snakeat\obj\x86\Debug\Snakeat.csproj.AssemblyReference.cache
+C:\Users\26519\Desktop\贪吃蛇 - 副本 - 副本\Snakeat\obj\x86\Debug\Snakeat.csproj.SuggestedBindingRedirects.cache
+C:\Users\26519\Desktop\贪吃蛇 - 副本 - 副本\Snakeat\obj\x86\Debug\Snakeat.Form1.resources
+C:\Users\26519\Desktop\贪吃蛇 - 副本 - 副本\Snakeat\obj\x86\Debug\Snakeat.Properties.Resources.resources
+C:\Users\26519\Desktop\贪吃蛇 - 副本 - 副本\Snakeat\obj\x86\Debug\Snakeat.csproj.GenerateResource.cache
+C:\Users\26519\Desktop\贪吃蛇 - 副本 - 副本\Snakeat\obj\x86\Debug\Snakeat.csproj.CoreCompileInputs.cache
+C:\Users\26519\Desktop\贪吃蛇 - 副本 - 副本\Snakeat\obj\x86\Debug\Snakeat.exe
+C:\Users\26519\Desktop\贪吃蛇 - 副本 - 副本\Snakeat\obj\x86\Debug\Snakeat.pdb
+C:\Users\26519\Desktop\tcs\Snakeat\bin\Debug\Snakeat.exe.config
+C:\Users\26519\Desktop\tcs\Snakeat\bin\Debug\Snakeat.exe
+C:\Users\26519\Desktop\tcs\Snakeat\bin\Debug\Snakeat.pdb
+C:\Users\26519\Desktop\tcs\Snakeat\obj\x86\Debug\Snakeat.csproj.AssemblyReference.cache
+C:\Users\26519\Desktop\tcs\Snakeat\obj\x86\Debug\Snakeat.csproj.SuggestedBindingRedirects.cache
+C:\Users\26519\Desktop\tcs\Snakeat\obj\x86\Debug\Snakeat.Form1.resources
+C:\Users\26519\Desktop\tcs\Snakeat\obj\x86\Debug\Snakeat.Properties.Resources.resources
+C:\Users\26519\Desktop\tcs\Snakeat\obj\x86\Debug\Snakeat.csproj.GenerateResource.cache
+C:\Users\26519\Desktop\tcs\Snakeat\obj\x86\Debug\Snakeat.csproj.CoreCompileInputs.cache
+C:\Users\26519\Desktop\tcs\Snakeat\obj\x86\Debug\Snakeat.exe
+C:\Users\26519\Desktop\tcs\Snakeat\obj\x86\Debug\Snakeat.pdb
